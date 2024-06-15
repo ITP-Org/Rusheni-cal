@@ -1,1 +1,1 @@
-# Rusheni-cal
+# Rusheni-calculator
